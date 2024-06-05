@@ -1,1 +1,1 @@
-# Welcome to the Baked Studios git org!
+# special repo for git org readme
